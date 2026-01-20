@@ -1,0 +1,13 @@
+📝 Requirements
+
+To run this project, you need Python 3.x and the following libraries:
+
+pandas – for data handling
+
+numpy – for numerical operations
+
+scikit-learn – for machine learning models
+
+xgboost – for advanced regression models (optional but recommended)
+
+matplotlib / seaborn – for data visualization (optional)
